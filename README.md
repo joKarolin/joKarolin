@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jo
-- 👀 I’m interested in drawing, painting, creating stuff, dancing etc
+- 👀 I’m interested in drawing, painting, reading, dancing etc
 - 🌱 I’m currently pursuing a Bachelors degree in Computer science specializing in Cyber security
 - 💞️ I’m looking to collaborate on small cyber security projects
 - 📫 How to reach me on instagram: @_.johanna_k._
