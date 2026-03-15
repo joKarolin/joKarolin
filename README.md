@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A small range navigation app**
 
-- 🌱 I’m currently learning **Git, Entity Framework 8.0, Advanced SQL**
+- 🌱 I’m currently learning **Git, Entity Framework 8.0, C#**
 
 - 👀 I’m interested in **drawing, painting, reading**
 
