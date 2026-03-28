@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **A small range navigation app**
 
-- 🌱 I’m currently learning **Git, Entity Framework 8.0, C#**
+- 🌱 I’m currently learning **Git, Javascript, Firebase**
 
 - 👀 I’m interested in **drawing, painting, reading**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joKarolin](https://github.com/joKarolin)
 
-- 💬 Ask me about **java, cyber security, crime books**
+- 💬 Ask me about **java, cyber security, crime thrillers (books and movies**
 
 - 📫 How to reach me **karolinebenezer@gmail.com**
 
